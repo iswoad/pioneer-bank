@@ -2,6 +2,10 @@ body{
     padding: 100px;
 }
 
+#login-area h1{
+    color: lightsalmon;
+    font-family: cursive;
+}
 .submit-area{
     margin-top: 40px;
     padding: 40px;
